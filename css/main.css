@@ -72,7 +72,6 @@ body > section,
 	padding: 70px 0;
 }
 
-.sec-title {}
 
 .sec-title h2 {
   color: #0eb493;
@@ -120,7 +119,7 @@ body > section,
 	margin-bottom: 50px;
 }
 /* desbloquear */
-/*#preloader {
+#preloader {
   background-color: #fff;
   height: 100%;
   position: fixed;
@@ -435,7 +434,7 @@ top: -8px;
 
 
 /*=========================================
-	Client version opcional
+	Client version opsional
 ==========================================*/
 
 /*.member-thumb {
