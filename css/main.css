@@ -169,7 +169,7 @@ body > section,
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
 	background-color: transparent;
-	border-top: 1px solid #ECBE2C ;
+	border-bottom: 1px solid #ECBE2C ;
 	color: #fff;
 }
 
