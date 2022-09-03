@@ -314,6 +314,10 @@ top: -8px;
   position: relative;
   top: 5px;
 }
+.sobre {
+  margin-top:50px;
+  font-size:15px;
+}
 
 .service-desc h3 {
   color: #062033;
