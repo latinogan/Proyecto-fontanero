@@ -313,10 +313,17 @@ top: -8px;
   margin-left: 70px;
   position: relative;
   top: 5px;
+  margin-top:60px;
+}
+.service-desc h4 {
+  color:rgb(68, 68, 3);
+  padding-bottom:7px;
 }
 .sobre {
   margin-top:50px;
   font-size:15px;
+  font-style: oblique;
+  color: rgb(96, 27, 27);
 }
 
 .service-desc h3 {
@@ -342,7 +349,7 @@ top: -8px;
 }
 
 .work-filter ul li a {
-  color: #062033;
+  color: #ffffff;
   display: block;
   font-size: 14px;
   font-weight: 700;
