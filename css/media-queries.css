@@ -17,6 +17,9 @@
     .member-thumb {
       width: auto;
     }
+    .footer-social {
+      text-align: center;
+    }
     
     }
     
@@ -99,9 +102,19 @@
       width: 100%;
     }
     
+   /* .footer-social li a button {
+      margin-left: 330px;
+      background-color: red;
+      margin-top: 45px; 
+    
+    }*/
     .footer-social {
-      margin-top: 45px;
+      text-align: center;
     }
+    
+    
+    
+    
     
     /* footer */
     
@@ -203,13 +216,14 @@
     }
     
     .footer-social {
+      
       margin-top: 20px;
       text-align: center;
+      
     }
+  
     
-    .footer-social li {
-      display: inline-block;
-    }
+    
     
     .footer-social li a {
       margin: 0 10px;
@@ -219,6 +233,11 @@
     
     .footer-single {
       margin-bottom: 30px;
+    }
+    #preloader > img {
+      left: 8%;
+      position: absolute;
+      top: 25%;
     }
     
     }
@@ -257,6 +276,11 @@
     .work-item {
       left: inherit !important;
       width: 50%;
+    }
+    #preloader > img {
+      left: 17%;
+      position: absolute;
+      top: 25%;
     }
     
     }

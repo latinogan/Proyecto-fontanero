@@ -128,10 +128,10 @@ body > section,
 }
 
 #preloader > img {
-  left: 17%;
+  left: 35%;
   position: absolute;
   top: 25%;
-}*/
+}
 
 
 /*=========================================
@@ -519,15 +519,29 @@ label.error {
 
 .footer-social {
   margin-top: 17px;
+  text-align: center;
+  display:flex;
+  flex-direction:column; 
 }
 
-.footer-social li a {
-  color: green;
+
+.btn {
+  
+  background-color:#0eb493;
+}
+.btn:hover {
+  box-shadow: 0px 15px 20px rgba(241, 245, 4, 0.968);
+  color: #fff;
+  transform: translateY(-7px);
+}
+/*esto es un ejemplo*/
+.footer-social li p {
+  color: #ffffff;
   display: flex;
-  margin-top: 30px;
-  margin-left:400px;
+  justify-content:center;
   padding:20px;
 }
+
 .hasClick {
   color:#ffffff;
   font-weight:bold;
@@ -593,12 +607,8 @@ label.error {
 
 #back-top {
   bottom: 20px;
+  color:#10ec1f;
   position: fixed;
   right: 25px;
   z-index: 9;
-}
-.llamada-footer {
- 
-  height:40rem;
-  
 }
