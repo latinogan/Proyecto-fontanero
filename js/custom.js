@@ -100,8 +100,9 @@ $(document).ready(function(){
 	/*	Back to Top
 	/* ========================================================================= */
 	
-	
-    $(window).scroll(function () {
+	/* ! esto se puede eliminar*/
+
+   /*$(window).scroll(function () {
         if ($(window).scrollTop() > 400) {
             $("#back-top").fadeIn(200)
         } else {
@@ -112,6 +113,6 @@ $(document).ready(function(){
         $("html, body").stop().animate({
             scrollTop: 0
         }, 1500, "easeInOutExpo")
-    });
+    });*/
 	
 });
